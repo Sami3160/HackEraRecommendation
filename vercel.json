@@ -1,5 +1,8 @@
 {
     "version": 2,
+    "script":{
+      "dev":"node server.js"
+    },
     "builds": [
       {
         "src": "server.js",
